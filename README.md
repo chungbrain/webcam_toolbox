@@ -14,7 +14,9 @@ The final result of this project is going to be shown that..
    
    <img src="https://github.com/chungbrain/webcam_toolbox/blob/master/2018-02-08_13-34-40.png" width="420">
    
-   Fianlly please confirm the generated CSV file on your current folder.
+   Fianlly please confirm the generated CSV file on your current folder as below.
+   
+   <img src="https://github.com/chungbrain/webcam_toolbox/blob/master/2018-02-08_14-02-28.png" width="540">
    
 2. advanced analysis [ongoing],
    
