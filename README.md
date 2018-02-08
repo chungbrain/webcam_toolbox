@@ -3,6 +3,9 @@
 This is folked from thearn's git hub (https://github.com/thearn/webcam-pulse-detector).
 I would like to add several functions based on thearn's stuff.
 The final result of this project is going to be shown that..
+
+* hardware specification: Galaxy book 12 inch (2017), built-in front webcam, windows 10 home 
+
 1. raw data stoage [done], 
 
    Type "python get_pulse_ck_py" on Anaconda cmd window. then,
