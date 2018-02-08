@@ -6,9 +6,14 @@ The final result of this project is going to be shown that..
 1. raw data stoage [done], 
 
    Type "python get_pulse_ck_py" on Anaconda cmd window. then,
+   
+   <img src="https://github.com/chungbrain/webcam_toolbox/blob/master/2018-02-08_13-34-40.png" width="420">   
+   
    Popup window and press the key "s" then, recording is started.
    If you want to stop this and its recording, then just press key "ESC".
+   
    <img src="https://github.com/chungbrain/webcam_toolbox/blob/master/2018-02-08_13-34-40.png" width="420">
+   
    Fianlly please confirm the generated CSV file on your current folder.
    
 2. advanced analysis [ongoing],
