@@ -27,5 +27,5 @@ The final result of this project is going to be shown that..
 
 
 Actually, the goal of my project is to apply this on the smartphone. 
-Please let me know if you have an interest to this.
+Please let me know if you have an interest in this.
 My personal email address is cklee.brain@gmail.com .
