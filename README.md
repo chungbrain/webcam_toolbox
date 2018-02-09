@@ -10,7 +10,7 @@ The final result of this project is going to utilize the following:
 
    Type "python get_pulse_ck_py" on Anaconda cmd window. then,
    
-   <img src="https://github.com/chungbrain/webcam_toolbox/blob/master/2018-02-08_13-33-35.png" width="5> 
+   <img src="https://github.com/chungbrain/webcam_toolbox/blob/master/2018-02-08_13-33-35.png" width="540"> 
    
    A Popup window will appear and then press the "s" key.  
    A recording will begin. If you would like to stop the recording simply press “ESC" key.
