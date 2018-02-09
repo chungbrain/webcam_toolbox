@@ -15,7 +15,7 @@ The final result of this project is going to be shown that..
    Popup window and press the key "s" then, recording is started.
    If you want to stop this and its recording, then just press key "ESC".
    
-   <img src="https://github.com/chungbrain/webcam_toolbox/blob/master/2018-02-08_13-34-40.png" width="420">
+   <img src="https://github.com/chungbrain/webcam_toolbox/blob/master/2018-02-08_16-48-13.png" width="420">
    
    Fianlly please confirm the generated CSV file on your current folder as below.
    
